@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.omnm.employee.DAO.EmployeeDAO;
 import com.omnm.employee.Entity.Employee;
-import com.omnm.employee.enumeration.employee.Department;
+import com.omnm.employee.enumeration.Department;
 
 @Service
 public class EmployeeService implements EmployeeServiceIF {

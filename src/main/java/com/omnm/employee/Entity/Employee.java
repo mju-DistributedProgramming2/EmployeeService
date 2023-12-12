@@ -1,7 +1,7 @@
 package com.omnm.employee.Entity;
 
-import com.omnm.employee.enumeration.employee.Department;
-import com.omnm.employee.enumeration.employee.Rank;
+import com.omnm.employee.enumeration.Department;
+import com.omnm.employee.enumeration.Rank;
 
 import javax.persistence.*;
 import java.io.Serializable;

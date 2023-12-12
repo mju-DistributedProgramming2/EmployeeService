@@ -1,4 +1,4 @@
-package com.omnm.employee.enumeration.employee;
+package com.omnm.employee.enumeration;
 
 public enum Rank {
 	

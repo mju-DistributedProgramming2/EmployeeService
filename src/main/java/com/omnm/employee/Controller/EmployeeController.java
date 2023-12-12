@@ -3,7 +3,7 @@ package com.omnm.employee.Controller;
 import com.omnm.employee.DTO.LoginEmployeeRequest;
 import com.omnm.employee.Entity.Employee;
 import com.omnm.employee.Service.EmployeeService;
-import com.omnm.employee.enumeration.employee.Department;
+import com.omnm.employee.enumeration.Department;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.query.Param;
